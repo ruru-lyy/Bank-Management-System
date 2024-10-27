@@ -21,9 +21,30 @@ The generated Customers Table look like this -
 
 ![Customers Table](Customers_Table.png)
 
+
 Transactions are updated for each user who has made a transaction. It is also reflected on the receiever's end.
 
 ![Aria Transaction Table](Aria_Transaction_Table.png)
 
 ![Parth Transaction](Parth_Transaction_Table.png)
+
+## Requirements
+
+### Software
+- **Python** (version 3.6 or higher)
+- **MySQL** (or any compatible SQL database)
+- **pip** (Python package installer)
+
+### Python Packages
+To install the required Python packages, you can use the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+A database must be set up in the MySQL environment.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
