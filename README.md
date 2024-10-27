@@ -17,3 +17,13 @@ and updating account details such as city, contact number and password.
 
 ## Output 
 
+The generated Customers Table look like this - 
+
+![Customers Table](Customers_Table.png)
+
+Transactions are updated for each user who has made a transaction. It is also reflected on the receiever's end.
+
+![Aria Transaction Table](Aria_Transaction_Table.png)
+
+![Parth Transaction](Parth_Transaction_Table.png)
+
